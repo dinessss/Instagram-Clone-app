@@ -39,7 +39,6 @@ To run
 
 ---
 
-<h4> Check out my AirBnB clone called AirCnC <a href="https://github.com/yarapolana/airbnb-code-clone">here</a>.</h4>
 
 
 </p>
